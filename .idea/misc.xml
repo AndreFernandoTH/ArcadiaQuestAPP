@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/drawable/botao.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/drawable/custom_button.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout-v21/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_2.xml" value="0.33" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_abatedouro.xml" value="0.25" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_arena_do_sol_brilhante.xml" value="0.209375" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_barca_mortos.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_batalha_real.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_cemiterio.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_covil_orcs.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_cozinha_inferno.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_criancas_noite.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_criancas_noite_inf.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_criptas.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_desfile.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_distrito_alquimista.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_distrito_martelos.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_distrito_sempresombrio.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_fonte_impura.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_hora_dormir.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_horade_dormir.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_laboratorio_secreto.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_mansao.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_mapa_arcadia.xml" value="0.25" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_mapa_beyound.xml" value="0.25" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_mapa_inferno.xml" value="0.4152410575427683" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_mapa_pets.xml" value="0.22" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_mapa_riders.xml" value="0.25" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_mausoleu_profano.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_modo_episodico.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_moinho_almas.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_mulher_do_padre.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_mulher_padre_inf.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_nao_existe_atrasos.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_nao_existe_atrasos_inf.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_noite_sem_lua.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_noite_sem_lua_inf.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_parlamento_inferno.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_patio_universidade.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_pe_traseiro.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_perdidos_escuridao.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_pets1.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_pets2.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_pets3.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_pets4.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_pets5.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_pets6.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_pix.xml" value="0.33" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_ponei_maldito.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_ponte_condenados.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_portal_turbulento.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_portal_turbulento_inf.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_portao_da_lua.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_portoes_inferno.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_posso_almas.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_praca_aurora_vermelha.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_prisioneiro.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_quartel_mal.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_regra_riders.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_regras_rolagens.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_riders1.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_riders2a.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_riders2b.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_riders3a.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_riders3b.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_riders4a.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_riders4b.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_riders5.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_riders6.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_rolagem_dados.xml" value="0.33" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_santuario_sombrio.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_tacos.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_tela_extra.xml" value="0.33" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_templo_amanhecer_crescupular.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_templo_caido.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_teste.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_ultimo_mulher_padre.xml" value="0.278125" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/ArcadiaQuest/app/src/main/res/layout/activity_viveiro_aguias.xml" value="0.278125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

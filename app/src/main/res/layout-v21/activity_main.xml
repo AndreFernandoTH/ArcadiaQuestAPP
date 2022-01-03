@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/tela"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="match_parent"
+        android:layout_height="124dp"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/foto_de_cima" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/viewBeyound"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/arcadia_beyond_capa_1"
+        app:civ_border_color="@color/white"
+        app:civ_border_width="3dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.83"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.430" />
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/viewPets"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/arcadia_pets_capa"
+        app:civ_border_color="@color/white"
+        app:civ_border_width="3dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.16"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.430" />
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+
+        android:id="@+id/viewArcada"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/capa_arcadia_quest"
+        app:civ_border_color="@color/white"
+        app:civ_border_width="3dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.16"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.220" />
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/viewInferno"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/arcadia_inferno_capa"
+        app:civ_border_color="@color/white"
+        app:civ_border_width="3dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.83"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.220" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/viewRiders"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/arcadia_riders_capa"
+        app:civ_border_color="@color/white"
+        app:civ_border_width="3dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.16"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.640" />
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/viewExtra"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/extra"
+        app:civ_border_width="4dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.83"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.640" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/viewRegras"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/bot_o_fundo_riders"
+        app:civ_border_color="@color/purple_500"
+        app:civ_border_width="3dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.80"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.950" />
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/viewPix"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/secreto"
+        app:civ_border_color="@color/purple_500"
+        app:civ_border_width="3dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.80"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.800" />
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/btMusica"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/revolucao"
+        app:civ_border_color="@color/purple_500"
+        app:civ_border_width="3dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.19"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.800" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/btBrigar"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/trol"
+        app:civ_border_color="@color/purple_500"
+        app:civ_border_width="3dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.19"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.950" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="15dp"
+        android:background="@drawable/botao"
+        android:gravity="center"
+        android:text="ARCADIA"
+        android:textColor="@color/black"
+        android:textSize="9dp"
+        app:layout_constraintBottom_toBottomOf="@+id/viewArcada"
+        app:layout_constraintEnd_toEndOf="@+id/viewArcada"
+        app:layout_constraintHorizontal_bias="0.525"
+        app:layout_constraintStart_toStartOf="@+id/viewArcada"
+        app:layout_constraintTop_toTopOf="@+id/viewArcada"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="15dp"
+        android:background="@drawable/botao"
+        android:gravity="center"
+        android:text="INFERNO"
+        android:textColor="@color/black"
+        android:textSize="9dp"
+        app:layout_constraintBottom_toBottomOf="@+id/viewInferno"
+        app:layout_constraintEnd_toEndOf="@+id/viewInferno"
+        app:layout_constraintHorizontal_bias="0.475"
+        app:layout_constraintStart_toStartOf="@+id/viewInferno"
+        app:layout_constraintTop_toTopOf="@+id/viewInferno"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="15dp"
+        android:background="@drawable/botao"
+        android:gravity="center"
+        android:text="BEYOUND"
+        android:textColor="@color/black"
+        android:textSize="9dp"
+        app:layout_constraintBottom_toBottomOf="@+id/viewBeyound"
+        app:layout_constraintEnd_toEndOf="@+id/viewBeyound"
+        app:layout_constraintHorizontal_bias="0.475"
+        app:layout_constraintStart_toStartOf="@+id/viewBeyound"
+        app:layout_constraintTop_toTopOf="@+id/viewBeyound"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="15dp"
+        android:background="@drawable/botao"
+        android:gravity="center"
+        android:text="EXTRA"
+        android:textColor="@color/black"
+        android:textSize="9dp"
+        app:layout_constraintBottom_toBottomOf="@+id/viewExtra"
+        app:layout_constraintEnd_toEndOf="@+id/viewExtra"
+        app:layout_constraintHorizontal_bias="0.475"
+        app:layout_constraintStart_toStartOf="@+id/viewExtra"
+        app:layout_constraintTop_toTopOf="@+id/viewExtra"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="15dp"
+        android:background="@drawable/botao"
+        android:gravity="center"
+        android:text="RIDERS"
+        android:textColor="@color/black"
+        android:textSize="9dp"
+        app:layout_constraintBottom_toBottomOf="@+id/viewRiders"
+        app:layout_constraintEnd_toEndOf="@+id/viewRiders"
+        app:layout_constraintHorizontal_bias="0.525"
+        app:layout_constraintStart_toStartOf="@+id/viewRiders"
+        app:layout_constraintTop_toTopOf="@+id/viewRiders"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="15dp"
+        android:background="@drawable/botao"
+        android:gravity="center"
+        android:text="PETS"
+        android:textColor="@color/black"
+        android:textSize="9dp"
+        app:layout_constraintBottom_toBottomOf="@+id/viewPets"
+        app:layout_constraintEnd_toEndOf="@+id/viewPets"
+        app:layout_constraintHorizontal_bias="0.525"
+        app:layout_constraintStart_toStartOf="@+id/viewPets"
+        app:layout_constraintTop_toTopOf="@+id/viewPets"
+        app:layout_constraintVertical_bias="1.0" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

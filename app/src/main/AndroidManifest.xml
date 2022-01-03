@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.andrefthompson.arcadiaquest">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Arcadia Quest"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ArcadiaQuest">
+        <activity
+            android:name=".NoiteSemLuaInf"
+            android:exported="false" />
+        <activity
+            android:name=".NaoExisteAtrasosInf"
+            android:exported="false" />
+        <activity
+            android:name=".CriancasNoiteInf"
+            android:exported="false" />
+        <activity
+            android:name=".CriancasNoite"
+            android:exported="false" />
+        <activity
+            android:name=".NoiteSemLua"
+            android:exported="false" />
+        <activity
+            android:name=".NaoExisteAtrasos"
+            android:exported="false" />
+        <activity
+            android:name=".ModoEpisodico"
+            android:exported="false" />
+        <activity
+            android:name=".BatalhaReal"
+            android:exported="false" />
+        <activity
+            android:name=".UltimoMulherPadre"
+            android:exported="false" />
+        <activity
+            android:name=".Pix"
+            android:exported="false" />
+        <activity
+            android:name=".RegrasRolagens"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PortalTurbulentoInf"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MulherPadreInf"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PortalTurbulento"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".HoradeDormir"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".RegraRiders"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tacos"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TelaExtra"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".RolagemDados"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.ArcadiaQuest" />
+        <activity
+            android:name=".MapaRiders"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MapaPets"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MapaInferno"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MapaBeyound"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MapaArcadia"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_tela.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\tela.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_ultimo_mulher_padre.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_ultimo_mulher_padre.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_symbol_ranged.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\symbol_ranged.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_mapainferno.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\mapainferno.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_skeletonescudo.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\skeletonescudo.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout-v21_activity_main.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout-v21\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_bot_o_fundo_riders.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\bot_o_fundo_riders.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_symbol_critblock.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\symbol_critblock.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mulher_padre_inf.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_mulher_padre_inf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_arcadia_beyond_capa_1.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\arcadia_beyond_capa_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_noite_sem_lua_inf.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_noite_sem_lua_inf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_skeletonespada.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\skeletonespada.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_arcoacerto.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\arcoacerto.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_background2.jpeg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\background2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_botao.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\botao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mapa_inferno.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_mapa_inferno.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_mapariders.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\mapariders.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_skeleton2.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\skeleton2.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mapa_pets.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_mapa_pets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_canto2.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\canto2.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_banner.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\banner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_regras_rolagens.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_regras_rolagens.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_criancas_noite.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_criancas_noite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_canto.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\canto.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_regrarolagem.jpeg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\regrarolagem.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_arcadia_pets_capa.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\arcadia_pets_capa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_skeleton1.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\skeleton1.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pix.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_pix.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_criancas_noite_inf.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_criancas_noite_inf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_noite_sem_lua.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_noite_sem_lua.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_tacos.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_tacos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mapa_riders.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_mapa_riders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_mais.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\mais.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_symbol_crit.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\symbol_crit.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_nao_existe_atrasos.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_nao_existe_atrasos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_errobranco.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\errobranco.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\raw_horado.mp3.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\raw\\horado.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_background.jpeg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\background.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\raw_som.mp3.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\raw\\som.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_foto_de_cima.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\foto_de_cima.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_revolucao.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\revolucao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_regrasriders.jpeg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\regrasriders.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_canto4.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\canto4.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_symbol_melee.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\symbol_melee.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_extra.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\extra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_portal_turbulento_inf.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_portal_turbulento_inf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_mapa.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\mapa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_pix.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\pix.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_mapabeyound.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\mapabeyound.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_espadacerto.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\espadacerto.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_canto3.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\canto3.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_skeletonarco.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\skeletonarco.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_horadormir.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\horadormir.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_trol.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\trol.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_batalha_real.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_batalha_real.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mapa_arcadia.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_mapa_arcadia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_secreto.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\secreto.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_capa_arcadia_quest.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\capa_arcadia_quest.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_mapapets.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\mapapets.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_horade_dormir.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_horade_dormir.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_fundoextra.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\fundoextra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_rolagem_dados.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_rolagem_dados.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_reroll.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\reroll.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_menos.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\menos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_fundobeyound.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\fundobeyound.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_arcadia_riders_capa.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\arcadia_riders_capa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_regra.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\regra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_brigarbotao.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\brigarbotao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_portal_turbulento.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_portal_turbulento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable_arcadia_inferno_capa.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable\\arcadia_inferno_capa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_regra_riders.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_regra_riders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_symbol_block.png.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\symbol_block.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_tela_extra.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_tela_extra.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_modo_episodico.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_modo_episodico.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_nao_existe_atrasos_inf.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_nao_existe_atrasos_inf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_sbackground.jpg.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\drawable-xhdpi\\sbackground.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mapa_beyound.xml.flat",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\ArcadiaQuest\\app\\src\\main\\res\\layout\\activity_mapa_beyound.xml"
+    }
+]

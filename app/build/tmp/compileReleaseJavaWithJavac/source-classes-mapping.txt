@@ -1,0 +1,137 @@
+com/andrefthompson/arcadiaquest/MulherPadreInf.java
+ com.andrefthompson.arcadiaquest.MulherPadreInf
+com/andrefthompson/arcadiaquest/TelaExtra.java
+ com.andrefthompson.arcadiaquest.TelaExtra
+ com.andrefthompson.arcadiaquest.TelaExtra$1
+ com.andrefthompson.arcadiaquest.TelaExtra$2
+ com.andrefthompson.arcadiaquest.TelaExtra$3
+ com.andrefthompson.arcadiaquest.TelaExtra$4
+ com.andrefthompson.arcadiaquest.TelaExtra$5
+ com.andrefthompson.arcadiaquest.TelaExtra$6
+ com.andrefthompson.arcadiaquest.TelaExtra$7
+ com.andrefthompson.arcadiaquest.TelaExtra$8
+ com.andrefthompson.arcadiaquest.TelaExtra$9
+com/andrefthompson/arcadiaquest/RolagemDados.java
+ com.andrefthompson.arcadiaquest.RolagemDados
+ com.andrefthompson.arcadiaquest.RolagemDados$1
+ com.andrefthompson.arcadiaquest.RolagemDados$2
+ com.andrefthompson.arcadiaquest.RolagemDados$3
+ com.andrefthompson.arcadiaquest.RolagemDados$4
+ com.andrefthompson.arcadiaquest.RolagemDados$5
+ com.andrefthompson.arcadiaquest.RolagemDados$6
+ com.andrefthompson.arcadiaquest.RolagemDados$7
+ com.andrefthompson.arcadiaquest.RolagemDados$8
+com/andrefthompson/arcadiaquest/MapaPets.java
+ com.andrefthompson.arcadiaquest.MapaPets
+ com.andrefthompson.arcadiaquest.MapaPets$1
+ com.andrefthompson.arcadiaquest.MapaPets$2
+ com.andrefthompson.arcadiaquest.MapaPets$3
+ com.andrefthompson.arcadiaquest.MapaPets$4
+ com.andrefthompson.arcadiaquest.MapaPets$5
+ com.andrefthompson.arcadiaquest.MapaPets$6
+com/andrefthompson/arcadiaquest/MapaArcadia.java
+ com.andrefthompson.arcadiaquest.MapaArcadia
+ com.andrefthompson.arcadiaquest.MapaArcadia$1
+ com.andrefthompson.arcadiaquest.MapaArcadia$10
+ com.andrefthompson.arcadiaquest.MapaArcadia$11
+ com.andrefthompson.arcadiaquest.MapaArcadia$2
+ com.andrefthompson.arcadiaquest.MapaArcadia$3
+ com.andrefthompson.arcadiaquest.MapaArcadia$4
+ com.andrefthompson.arcadiaquest.MapaArcadia$5
+ com.andrefthompson.arcadiaquest.MapaArcadia$6
+ com.andrefthompson.arcadiaquest.MapaArcadia$7
+ com.andrefthompson.arcadiaquest.MapaArcadia$8
+ com.andrefthompson.arcadiaquest.MapaArcadia$9
+com/andrefthompson/arcadiaquest/ModoEpisodico.java
+ com.andrefthompson.arcadiaquest.ModoEpisodico
+com/andrefthompson/arcadiaquest/MapaBeyound.java
+ com.andrefthompson.arcadiaquest.MapaBeyound
+ com.andrefthompson.arcadiaquest.MapaBeyound$1
+ com.andrefthompson.arcadiaquest.MapaBeyound$2
+ com.andrefthompson.arcadiaquest.MapaBeyound$3
+ com.andrefthompson.arcadiaquest.MapaBeyound$4
+ com.andrefthompson.arcadiaquest.MapaBeyound$5
+ com.andrefthompson.arcadiaquest.MapaBeyound$6
+ com.andrefthompson.arcadiaquest.MapaBeyound$7
+ com.andrefthompson.arcadiaquest.MapaBeyound$8
+ com.andrefthompson.arcadiaquest.MapaBeyound$9
+com/andrefthompson/arcadiaquest/CriancasNoite.java
+ com.andrefthompson.arcadiaquest.CriancasNoite
+com/andrefthompson/arcadiaquest/BatalhaReal.java
+ com.andrefthompson.arcadiaquest.BatalhaReal
+com/andrefthompson/arcadiaquest/Tacos.java
+ com.andrefthompson.arcadiaquest.Tacos
+com/andrefthompson/arcadiaquest/MapaRiders.java
+ com.andrefthompson.arcadiaquest.MapaRiders
+ com.andrefthompson.arcadiaquest.MapaRiders$1
+ com.andrefthompson.arcadiaquest.MapaRiders$2
+ com.andrefthompson.arcadiaquest.MapaRiders$3
+ com.andrefthompson.arcadiaquest.MapaRiders$4
+ com.andrefthompson.arcadiaquest.MapaRiders$5
+ com.andrefthompson.arcadiaquest.MapaRiders$6
+ com.andrefthompson.arcadiaquest.MapaRiders$7
+ com.andrefthompson.arcadiaquest.MapaRiders$8
+ com.andrefthompson.arcadiaquest.MapaRiders$9
+com/andrefthompson/arcadiaquest/MapaInferno.java
+ com.andrefthompson.arcadiaquest.MapaInferno
+ com.andrefthompson.arcadiaquest.MapaInferno$1
+ com.andrefthompson.arcadiaquest.MapaInferno$10
+ com.andrefthompson.arcadiaquest.MapaInferno$11
+ com.andrefthompson.arcadiaquest.MapaInferno$12
+ com.andrefthompson.arcadiaquest.MapaInferno$2
+ com.andrefthompson.arcadiaquest.MapaInferno$3
+ com.andrefthompson.arcadiaquest.MapaInferno$4
+ com.andrefthompson.arcadiaquest.MapaInferno$5
+ com.andrefthompson.arcadiaquest.MapaInferno$6
+ com.andrefthompson.arcadiaquest.MapaInferno$7
+ com.andrefthompson.arcadiaquest.MapaInferno$8
+ com.andrefthompson.arcadiaquest.MapaInferno$9
+com/andrefthompson/arcadiaquest/PortalTurbulentoInf.java
+ com.andrefthompson.arcadiaquest.PortalTurbulentoInf
+com/andrefthompson/arcadiaquest/NaoExisteAtrasos.java
+ com.andrefthompson.arcadiaquest.NaoExisteAtrasos
+com/andrefthompson/arcadiaquest/MainActivity.java
+ com.andrefthompson.arcadiaquest.MainActivity
+ com.andrefthompson.arcadiaquest.MainActivity$1
+ com.andrefthompson.arcadiaquest.MainActivity$10
+ com.andrefthompson.arcadiaquest.MainActivity$2
+ com.andrefthompson.arcadiaquest.MainActivity$3
+ com.andrefthompson.arcadiaquest.MainActivity$4
+ com.andrefthompson.arcadiaquest.MainActivity$5
+ com.andrefthompson.arcadiaquest.MainActivity$6
+ com.andrefthompson.arcadiaquest.MainActivity$7
+ com.andrefthompson.arcadiaquest.MainActivity$8
+ com.andrefthompson.arcadiaquest.MainActivity$9
+com/andrefthompson/arcadiaquest/Pix.java
+ com.andrefthompson.arcadiaquest.Pix
+com/andrefthompson/arcadiaquest/RegrasRolagens.java
+ com.andrefthompson.arcadiaquest.RegrasRolagens
+com/andrefthompson/arcadiaquest/PortalTurbulento.java
+ com.andrefthompson.arcadiaquest.PortalTurbulento
+com/andrefthompson/arcadiaquest/UltimoMulherPadre.java
+ com.andrefthompson.arcadiaquest.UltimoMulherPadre
+com/andrefthompson/arcadiaquest/RegraRiders.java
+ com.andrefthompson.arcadiaquest.RegraRiders
+com/andrefthompson/arcadiaquest/BuildConfig.java
+ com.andrefthompson.arcadiaquest.BuildConfig
+com/andrefthompson/arcadiaquest/NoiteSemLua.java
+ com.andrefthompson.arcadiaquest.NoiteSemLua
+com/andrefthompson/arcadiaquest/HoradeDormir.java
+ com.andrefthompson.arcadiaquest.HoradeDormir
+ com.andrefthompson.arcadiaquest.HoradeDormir$1
+ com.andrefthompson.arcadiaquest.HoradeDormir$10
+ com.andrefthompson.arcadiaquest.HoradeDormir$11
+ com.andrefthompson.arcadiaquest.HoradeDormir$2
+ com.andrefthompson.arcadiaquest.HoradeDormir$3
+ com.andrefthompson.arcadiaquest.HoradeDormir$4
+ com.andrefthompson.arcadiaquest.HoradeDormir$5
+ com.andrefthompson.arcadiaquest.HoradeDormir$6
+ com.andrefthompson.arcadiaquest.HoradeDormir$7
+ com.andrefthompson.arcadiaquest.HoradeDormir$8
+ com.andrefthompson.arcadiaquest.HoradeDormir$9
+com/andrefthompson/arcadiaquest/CriancasNoiteInf.java
+ com.andrefthompson.arcadiaquest.CriancasNoiteInf
+com/andrefthompson/arcadiaquest/NoiteSemLuaInf.java
+ com.andrefthompson.arcadiaquest.NoiteSemLuaInf
+com/andrefthompson/arcadiaquest/NaoExisteAtrasosInf.java
+ com.andrefthompson.arcadiaquest.NaoExisteAtrasosInf

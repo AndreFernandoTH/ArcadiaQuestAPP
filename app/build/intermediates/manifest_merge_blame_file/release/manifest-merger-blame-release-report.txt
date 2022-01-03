@@ -1,0 +1,222 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.andrefthompson.arcadiaquest"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:5:5-108:19
+12        android:allowBackup="true"
+12-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.1] C:\Users\Andre\AndroidStudioProjects\.gradle\caches\transforms-3\e89cc30d83e7763ffd18296e3e008066\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+14        android:icon="@mipmap/ic_launcher"
+14-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:7:9-43
+15        android:label="Arcadia Quest"
+15-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:8:9-38
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:9:9-54
+17        android:supportsRtl="true"
+17-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:10:9-35
+18        android:theme="@style/Theme.ArcadiaQuest" >
+18-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:11:9-50
+19        <activity
+19-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:12:9-14:40
+20            android:name="com.andrefthompson.arcadiaquest.NoiteSemLuaInf"
+20-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:13:13-43
+21            android:exported="false" />
+21-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:14:13-37
+22        <activity
+22-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:15:9-17:40
+23            android:name="com.andrefthompson.arcadiaquest.NaoExisteAtrasosInf"
+23-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:16:13-48
+24            android:exported="false" />
+24-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:17:13-37
+25        <activity
+25-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:18:9-20:40
+26            android:name="com.andrefthompson.arcadiaquest.CriancasNoiteInf"
+26-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:19:13-45
+27            android:exported="false" />
+27-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:20:13-37
+28        <activity
+28-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:21:9-23:40
+29            android:name="com.andrefthompson.arcadiaquest.CriancasNoite"
+29-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:22:13-42
+30            android:exported="false" />
+30-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:23:13-37
+31        <activity
+31-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:24:9-26:40
+32            android:name="com.andrefthompson.arcadiaquest.NoiteSemLua"
+32-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:25:13-40
+33            android:exported="false" />
+33-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:26:13-37
+34        <activity
+34-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:27:9-29:40
+35            android:name="com.andrefthompson.arcadiaquest.NaoExisteAtrasos"
+35-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:28:13-45
+36            android:exported="false" />
+36-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:29:13-37
+37        <activity
+37-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:30:9-32:40
+38            android:name="com.andrefthompson.arcadiaquest.ModoEpisodico"
+38-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:31:13-42
+39            android:exported="false" />
+39-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:32:13-37
+40        <activity
+40-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:33:9-35:40
+41            android:name="com.andrefthompson.arcadiaquest.BatalhaReal"
+41-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:34:13-40
+42            android:exported="false" />
+42-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:35:13-37
+43        <activity
+43-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:36:9-38:40
+44            android:name="com.andrefthompson.arcadiaquest.UltimoMulherPadre"
+44-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:37:13-46
+45            android:exported="false" />
+45-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:38:13-37
+46        <activity
+46-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:39:9-41:40
+47            android:name="com.andrefthompson.arcadiaquest.Pix"
+47-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:40:13-32
+48            android:exported="false" />
+48-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:41:13-37
+49        <activity
+49-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:42:9-45:52
+50            android:name="com.andrefthompson.arcadiaquest.RegrasRolagens"
+50-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:43:13-43
+51            android:exported="false"
+51-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:44:13-37
+52            android:screenOrientation="portrait" />
+52-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:45:13-49
+53        <activity
+53-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:46:9-49:52
+54            android:name="com.andrefthompson.arcadiaquest.PortalTurbulentoInf"
+54-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:47:13-48
+55            android:exported="false"
+55-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:48:13-37
+56            android:screenOrientation="portrait" />
+56-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:49:13-49
+57        <activity
+57-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:50:9-53:52
+58            android:name="com.andrefthompson.arcadiaquest.MulherPadreInf"
+58-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:51:13-43
+59            android:exported="false"
+59-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:52:13-37
+60            android:screenOrientation="portrait" />
+60-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:53:13-49
+61        <activity
+61-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:54:9-57:52
+62            android:name="com.andrefthompson.arcadiaquest.PortalTurbulento"
+62-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:55:13-45
+63            android:exported="false"
+63-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:56:13-37
+64            android:screenOrientation="portrait" />
+64-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:57:13-49
+65        <activity
+65-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:58:9-61:52
+66            android:name="com.andrefthompson.arcadiaquest.HoradeDormir"
+66-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:59:13-41
+67            android:exported="false"
+67-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:60:13-37
+68            android:screenOrientation="portrait" />
+68-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:61:13-49
+69        <activity
+69-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:62:9-65:52
+70            android:name="com.andrefthompson.arcadiaquest.RegraRiders"
+70-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:63:13-40
+71            android:exported="false"
+71-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:64:13-37
+72            android:screenOrientation="portrait" />
+72-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:65:13-49
+73        <activity
+73-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:66:9-69:52
+74            android:name="com.andrefthompson.arcadiaquest.Tacos"
+74-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:67:13-34
+75            android:exported="false"
+75-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:68:13-37
+76            android:screenOrientation="portrait" />
+76-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:69:13-49
+77        <activity
+77-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:70:9-73:52
+78            android:name="com.andrefthompson.arcadiaquest.TelaExtra"
+78-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:71:13-38
+79            android:exported="false"
+79-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:72:13-37
+80            android:screenOrientation="portrait" />
+80-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:73:13-49
+81        <activity
+81-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:74:9-78:57
+82            android:name="com.andrefthompson.arcadiaquest.RolagemDados"
+82-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:75:13-41
+83            android:exported="false"
+83-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:76:13-37
+84            android:screenOrientation="portrait"
+84-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:77:13-49
+85            android:theme="@style/Theme.ArcadiaQuest" />
+85-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:78:13-54
+86        <activity
+86-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:79:9-82:52
+87            android:name="com.andrefthompson.arcadiaquest.MapaRiders"
+87-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:80:13-39
+88            android:exported="false"
+88-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:81:13-37
+89            android:screenOrientation="portrait" />
+89-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:82:13-49
+90        <activity
+90-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:83:9-86:52
+91            android:name="com.andrefthompson.arcadiaquest.MapaPets"
+91-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:84:13-37
+92            android:exported="false"
+92-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:85:13-37
+93            android:screenOrientation="portrait" />
+93-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:86:13-49
+94        <activity
+94-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:87:9-90:52
+95            android:name="com.andrefthompson.arcadiaquest.MapaInferno"
+95-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:88:13-40
+96            android:exported="false"
+96-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:89:13-37
+97            android:screenOrientation="portrait" />
+97-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:90:13-49
+98        <activity
+98-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:91:9-94:52
+99            android:name="com.andrefthompson.arcadiaquest.MapaBeyound"
+99-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:92:13-40
+100            android:exported="false"
+100-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:93:13-37
+101            android:screenOrientation="portrait" />
+101-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:94:13-49
+102        <activity
+102-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:95:9-98:52
+103            android:name="com.andrefthompson.arcadiaquest.MapaArcadia"
+103-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:96:13-40
+104            android:exported="false"
+104-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:97:13-37
+105            android:screenOrientation="portrait" />
+105-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:98:13-49
+106        <activity
+106-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:99:9-107:20
+107            android:name="com.andrefthompson.arcadiaquest.MainActivity"
+107-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:100:13-41
+108            android:screenOrientation="portrait" >
+108-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:101:13-49
+109            <intent-filter>
+109-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:102:13-106:29
+110                <action android:name="android.intent.action.MAIN" />
+110-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:103:17-69
+110-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:103:25-66
+111
+112                <category android:name="android.intent.category.LAUNCHER" />
+112-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:105:17-77
+112-->C:\Users\Andre\AndroidStudioProjects\ArcadiaQuest\app\src\main\AndroidManifest.xml:105:27-74
+113            </intent-filter>
+114        </activity>
+115    </application>
+116
+117</manifest>
